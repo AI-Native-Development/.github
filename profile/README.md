@@ -1,8 +1,8 @@
 # Welcome to the AI-Native Development community!
 
-<img align="right" src="./top.png" title="AI Native Development Guide" width="30%">
+<img align="right" src="/profile/top.png" title="AI Native Development Guide" width="30%">
 
-## 🙋‍♀️ Brief introduction 
+## 🙋‍♀️ Brief introduction
 
 Our community practices an approach that incorporates AI collaboration into the development process and culture, to accelerate software development. We aim to utilize AI technologies such as GitHub Copilot and ChatGPT, significantly streamline traditional software development processes, and create innovative solutions. Currently we support the following languages: [English 🇺🇸](https://ai-native-development.gitbook.io/docs/), [German 🇩🇪](https://ai-native-development.gitbook.io/docs/v/de/), [Spanish 🇪🇸](https://ai-native-development.gitbook.io/docs/v/es/), [French 🇫🇷](https://ai-native-development.gitbook.io/docs/v/fr/), [Italian 🇮🇹](https://ai-native-development.gitbook.io/docs/v/it/), [Japanese 🇯🇵](https://ai-native-development.gitbook.io/docs/v/ja/), [Portuguese 🇵🇹](https://ai-native-development.gitbook.io/docs/v/pt/), and [Chinese 🇨🇳](https://ai-native-development.gitbook.io/docs/v/zh/).
 
@@ -13,7 +13,7 @@ Our mission is **to collect and document the best practices for collaborating wi
 ## 🌈 Contribution guidelines
 
 How can the community get involved?
-In our community, you can share knowledge and experiences related to AI-Native development and engage in discussions. Please provide feedback and suggestions on patterns and solutions through GitHub Issues. Contributions to documentation are also welcome! We are currently managing patterns on the following project board, and we welcome everyone to contribute their ideas: [https://github.com/orgs/AI-Native-Development/projects/1](https://github.com/orgs/AI-Native-Development/projects/1).
+In our community, you can share knowledge and experiences related to AI-Native development and engage in discussions. Please provide feedback and suggestions on patterns and solutions through GitHub Issues. Contributions to documentation are also welcome! We are currently managing patterns on the following project board, and we welcome everyone to contribute their ideas: [AI Native Development Patterns Project Board](https://github.com/orgs/AI-Native-Development/projects/1).
 
 ## 👩‍💻 Helpful resources 
 
