@@ -1,6 +1,6 @@
 # Welcome to the AI-Native Development community!
 
-<img align="right" src="./top.png" title="AI Native Development Guide" width="30%"></a>
+<img align="right" src="/profile/top.png" title="AI Native Development Guide" width="30%"></a>
 
 ## 🙋‍♀️ Brief introduction 
 
@@ -13,7 +13,7 @@ Our mission is **to collect and document the best practices for collaborating wi
 ## 🌈 Contribution guidelines
 
 How can the community get involved?
-In our community, you can share knowledge and experiences related to AI-Native development and engage in discussions. Please provide feedback and suggestions on patterns and solutions through GitHub Issues. Contributions to documentation are also welcome! We are currently managing patterns on the following project board, and we welcome everyone to contribute their ideas: [https://github.com/orgs/AI-Native-Development/projects/1](https://github.com/orgs/AI-Native-Development/projects/1).
+In our community, you can share knowledge and experiences related to AI-Native development and engage in discussions. Please provide feedback and suggestions on patterns and solutions through GitHub Issues. Contributions to documentation are also welcome! We are currently managing patterns on the following project board, and we welcome everyone to contribute their ideas: [AI Native Development Patterns Project Board](https://github.com/orgs/AI-Native-Development/projects/1).
 
 ## 👩‍💻 Helpful resources 
 
