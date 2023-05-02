@@ -1,6 +1,6 @@
 # Welcome to the AI-Native Development community!
 
-<img align="right" src="./top.png" title="AI Native Development Guide" width="30%"></a>
+<img align="right" src="./top.png" title="AI Native Development Guide" width="30%">
 
 ## 🙋‍♀️ Brief introduction 
 
